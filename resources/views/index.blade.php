@@ -9,7 +9,7 @@
     <div class="col-md-6">
       <h2>Enter your personal details</h2>
       <div class="input-group mb-3">
-  <span class="input-group-text" id="basic-addon1">Name</span>
+  <span class="input-group-text" id="name">Name</span>
   <input type="text" class="form-control" placeholder="Enter your name" aria-label="Username" aria-describedby="basic-addon1">
 </div>
 
